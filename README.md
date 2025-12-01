@@ -1,2 +1,2 @@
-# MCBEHUB-LOBBYAdd-on
+# MCBEHUB&LOBBYAdd-on
 カスタムコマンドを使用したHUBなどにTPできるコマンドを追加するアドオンです。
